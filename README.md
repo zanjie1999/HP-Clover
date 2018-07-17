@@ -14,4 +14,7 @@ CLOVER/kexts/Other/X86PlatformPluginInjector.kext<br>
 似乎比较正经?<br>
 待验证<br>
 <br>
+好像留着好一点,虽然有时关机5国<br>
+似乎不正常关机后启动黑苹果,会因为声卡注入二导致kernel_task的cpu使用暴涨<br>
+<br>
 无3码 请自行加入
